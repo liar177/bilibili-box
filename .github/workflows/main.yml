@@ -27,3 +27,4 @@ jobs:
           GIST_ID: 19a48486110510c0981e842bc5f83c41
           UID: '12588180'
         run: deno run --allow-net --allow-env index.ts
+   
